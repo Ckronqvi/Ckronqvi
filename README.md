@@ -19,7 +19,6 @@ I'm in my third year of studying Information Processing Science at the Universit
 
 #
 
-  <div style="margin-top: 100px;"></div>
 </div>
 
 <div align="center">
@@ -30,3 +29,18 @@ I'm in my third year of studying Information Processing Science at the Universit
         </a>
     </div>
 </div>
+
+#
+
+<div align="center">
+    
+## My LeetCode journey (still a noob)
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=wtf&font=Michroma&ext=heatmap" />
+  </a>
+</p>
+
