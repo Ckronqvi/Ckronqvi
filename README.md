@@ -34,7 +34,7 @@ I'm in my third year of studying Information Processing Science at the Universit
 
 <div align="center">
     
-## My LeetCode journey (still a noob)
+## I also do LeetCode just for fun!
 
 </div>
 
