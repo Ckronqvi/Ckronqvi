@@ -7,7 +7,7 @@
 
 ## 💻 About me
 
-I'm in my third year of studying Information Processing Science at the University of Oulu. I am very passionate about learning and personal development. I enjoy exercising, and I'm also decent at playing the piano. 🏃‍♂️🎹.
+I study Information Processing Science at the University of Oulu. I am very passionate about learning and personal development. I enjoy exercising, and I'm also decent at playing the piano. 🏃‍♂️🎹.
 
 <div align="center">
 
