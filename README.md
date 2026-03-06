@@ -40,7 +40,7 @@ I study Information Processing Science at the University of Oulu. I am very pass
 
 <p align="center">
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=wtf&font=Michroma&ext=heatmap" />
+    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=wtf&font=Michroma" />
   </a>
 </p>
 
