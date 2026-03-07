@@ -20,6 +20,19 @@ I study Information Processing Science at the University of Oulu. I am very pass
 
 #
 
+<div align="center">
+    
+<div align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=nord&font=Michroma" />
+  </a>
+  <img src="https://stats-sepia-six.vercel.app/api?username=ckronqvi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars&theme=transparent&hide_border=true&title_color=0070f3&border_radius=10" alt="ckronqvi's GitHub stats" />
+</div>
+
+</div>
+
+#
+
 </div>
 
 <div align="center">
@@ -32,15 +45,4 @@ I study Information Processing Science at the University of Oulu. I am very pass
 </div>
 
 #
-
-<div align="center">
-    
-<div align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=nord&font=Michroma" />
-  </a>
-  <img src="https://stats-sepia-six.vercel.app/api?username=ckronqvi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars&theme=transparent&hide_border=true&title_color=0070f3&border_radius=10" alt="ckronqvi's GitHub stats" />
-</div>
-
-</div>
 
