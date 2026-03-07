@@ -13,7 +13,8 @@ I study Information Processing Science at the University of Oulu. I am very pass
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,java,spring,c,rust,git,linux,deno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,spring,c,cs,dotnet,rust,ts,deno,aws,linux,git)](https://skillicons.dev)
+
 
 </div>
 
@@ -34,13 +35,12 @@ I study Information Processing Science at the University of Oulu. I am very pass
 
 <div align="center">
     
-## I also do LeetCode just for fun!
-
+<div align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=nord&font=Michroma" />
+  </a>
+  <img src="https://stats-sepia-six.vercel.app/api?username=ckronqvi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars&theme=transparent&hide_border=true&title_color=0070f3&border_radius=10" alt="ckronqvi's GitHub stats" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="Ckronqvi's LeetCode Stats" alt="Ckronqvi's LeetCode Stats" src="https://leetcard.jacoblin.cool/Ckronqvi?theme=wtf&font=Michroma" />
-  </a>
-</p>
+</div>
 
